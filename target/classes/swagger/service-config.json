@@ -1,0 +1,12 @@
+{
+	"artifactId": "application-service",
+	"basePackage": "com.contemi.java",
+	"apiPackage": "com.contemi.java.api",
+	"configPackage": "com.contemi.java.api.configuration",
+	"modelPackage": "com.contemi.java.api.models",
+	"delegatePattern": "true",
+	"hideGenerationTimestamp": "true",
+	"useBeanValidation": "true",
+	"dateLibrary": "joda",
+	"sourceFolder": "src/main/java"
+}
